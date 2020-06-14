@@ -3,6 +3,9 @@ import { WebView } from "react-native-webview";
 
 export default function App() {
   return (
-    <WebView source={{ uri: "https://expo.io" }} style={{ marginTop: 20 }} />
+    <WebView
+      source={{ uri: "http://Onetipbox.com" }}
+      style={{ marginTop: 50 }}
+    />
   );
 }
