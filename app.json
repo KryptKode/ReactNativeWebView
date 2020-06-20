@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "SampleWebView",
+    "name": "SampleWebview",
     "slug": "SampleWebView",
     "platforms": [
       "ios",
@@ -23,6 +23,9 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "sdkVersion": "37.0.0",
+    "description": "",
+    "githubUrl": "https://github.com/KryptKode/ReactNativeWebView"
   }
 }
