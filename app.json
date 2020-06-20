@@ -1,12 +1,8 @@
 {
   "expo": {
-    "name": "SampleWebview",
-    "slug": "SampleWebView",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "name": "Arbitrator",
+    "slug": "Arbitrator",
+    "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,14 +14,11 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "sdkVersion": "37.0.0",
-    "description": "",
-    "githubUrl": "https://github.com/KryptKode/ReactNativeWebView"
+    "description": ""
   }
 }
