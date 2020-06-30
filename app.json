@@ -2,11 +2,7 @@
   "expo": {
     "name": "Onetipbox",
     "slug": "Onetipbox",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/onetip_icon.png",
@@ -18,13 +14,17 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
+    "assetBundlePatterns": ["**/*"],
     "sdkVersion": "37.0.0",
-    "description": ""
+    "description": "",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.onetipbox.ios",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.onetipbox.android",
+      "versionCode": 1
+    }
   }
 }
