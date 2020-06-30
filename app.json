@@ -21,10 +21,16 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "sdkVersion": "37.0.0",
-    "description": ""
+    "description": "",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.arbitratorsignagreement.ios",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.arbitratorsignagreement.android",
+      "versionCode": 1
+    }
   }
 }

@@ -5,7 +5,7 @@ import { getStatusBarHeight } from "react-native-status-bar-height";
 export default function App() {
   return (
     <WebView
-      source={{ uri: "https://www.achimecreativeinsight.com/law/public/" }}
+      source={{ uri: "https://arbitratorsignagreement.com" }}
       style={{ marginTop: getStatusBarHeight() }}
     />
   );
