@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Onetipbox",
-    "slug": "Onetipbox",
+    "name": "One Tip Box",
+    "slug": "One Tip Box",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
