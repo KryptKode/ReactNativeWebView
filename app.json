@@ -1,8 +1,12 @@
 {
   "expo": {
     "name": "One Tip Box",
-    "slug": "One Tip Box",
-    "platforms": ["ios", "android", "web"],
+    "slug": "Onetipbox",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/onetip_icon.png",
@@ -14,7 +18,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "sdkVersion": "37.0.0",
     "description": "",
     "ios": {
